@@ -1,7 +1,7 @@
 # OneDayPython
 Report
-1.	I chose C# 
-2.	I chose C# since it was the closest language to what I had previously known so I could work better with it and be able to learn a better understanding of both at the same time  
+1.	 C# 7.0
+2.	I chose C# since it was the closest language to what I had previously known so I could work better with it and be able to learn a better understanding of both at the same time.  
 3.	  For starters C# fully supports object-oriented programming paradigms, including classes, objects which was vital In this project. 
 The File ingestion was standard using Read/Write line, but creating a method to properly read through the file was a bit difficult to properly implement.
  Assignment statements in C# are straightforward and follow the conventional syntax (Variable = Value). 
