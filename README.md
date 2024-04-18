@@ -1,4 +1,4 @@
-# OneDayPython
+# Alternative Language project 
 Report
 1.	 C# 7.0
 2.	I chose C# since it was the closest language to what I had previously known so I could work better with it and be able to learn a better understanding of both at the same time.  
